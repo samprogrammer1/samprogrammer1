@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native , React Js**
 
-- 👨‍💻 All of my projects are available at [https://sameer.itwhizz.com/](https://sameer.itwhizz.com/)
+- 👨‍💻 All of my projects are available at [https://www.sameerali.online/](https://www.sameerali.online/)
 
 - 💬 Ask me about **Web dev , Hybrid App**
 
