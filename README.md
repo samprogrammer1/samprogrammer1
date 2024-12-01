@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Government Based Project**
 
-- 🌱 I’m currently learning **React Native , React Js**
+- 🌱 I’m currently learning **React Native , React Js, Laravel** 
 
 - 👨‍💻 All of my projects are available at [https://www.sameerali.online/](https://www.sameerali.online/)
 
