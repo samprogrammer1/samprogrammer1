@@ -11,14 +11,13 @@
 
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=momin-786&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=samprogrammer1&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Momin-786?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/samprogrammer1?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Lives%20In-Pakistan%20🇵🇰-blue?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Lives%20In-India%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
