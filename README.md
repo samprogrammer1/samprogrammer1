@@ -1,10 +1,14 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=220&section=header&text=Sameer-Ali&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20%7C%20Mobile%20Dev&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=220&section=header&text=Sameer-Ali&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Sole%20Backend%20Owner%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn" />
 </div>
+
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Abdul-Momin+👋;Full-Stack+Engineer+%40+EBOSOFT+🏢;React+%2F+Next.js+%2F+Node.js+Developer+⚡;Flutter+Mobile+Apps+📱;Building+AI-Powered+Web+Apps+🤖;COMSATS+University+-+Software+Engineering+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Sameer+Ali+👋;Full-Stack+Engineer+%40+SAVEIT+🏢;NestJS+%2F+Next.js+%2F+Node.js+Developer+⚡;React+Native+Mobile+Apps+📱;Building+GenAI+%26+Scalable+Monorepos+🤖;JIET+University+-+B.Tech+CS+(AI+%26+ML)+🎓;Always+Learning%2C+Always+Shipping+🚀)](https://git.io/typing-svg)
+
+
 
 <br/>
 
@@ -27,17 +31,17 @@
 ## 🧠 Who Am I
 
 ```typescript
-const abdulMomin = {
-  location       : "Pakistan 🇵🇰",
-  role           : "Full-Stack Engineer @ EBOSOFT",
-  education      : "Software Engineering — COMSATS University Islamabad",
-  awards         : ["🏆 Best Academic Result Award 2023", "🏆 Best Academic Result Award 2025"],
-  currentFocus   : ["Microservices Architecture", "ScyllaDB", "TensorFlow / AI-ML"],
-  openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Innovative mobile apps"],
-  askMeAbout     : ["React/Next.js", "RESTful APIs", "Flutter", "AI integration"],
+const sameerAli = {
+  location       : "India 🇮🇳",
+  role           : "Full-Stack Software Engineer (Sole Backend & Admin Owner @ SaveIT)",
+  education      : "B.Tech in Computer Science (AI & ML) — JIET University",
+  awards         : ["🏆 Core Team Member – Technical & Cultural Fests", "🏆 Sole Backend Engineer @ SaveIT"],
+  currentFocus   : ["NestJS Monorepo Architecture (BFF)", "GenAI (AWS Bedrock / Claude SDK)", "BullMQ & Redis Optimization"],
+  openTo         : ["AI-powered web apps", "Open-source full-stack projects", "Scalable backend architectures"],
+  askMeAbout     : ["NestJS / Express / Node.js", "React / Next.js / SDUI", "PostgreSQL / Redis / PostGIS", "React Native"],
   funFact        : "There are 10 types of people: those who understand binary, and those who don't 😄",
-  contact        : "hi@abdulmomin.dev",
-  portfolio      : "https://abdulmomin.dev",
+  contact        : "sameerali045@outlook.com",
+  portfolio      : "https://github.com/samprogrammer1",
 };
 ```
 
@@ -50,19 +54,12 @@ const abdulMomin = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AbdulMomin7863)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/its_mominn)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/silent.m786)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Momin-786)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 ## ⚡ What I'm Currently Doing
 
 <table align="center" width="100%">
@@ -70,17 +67,17 @@ const abdulMomin = {
     <td width="50%" valign="top">
 
 ### 🔨 Building
-- Full-stack apps with **React + Node.js**
-- Cross-platform mobile apps with **Flutter**
-- AI-integrated web products at **EBOSOFT**
+- Monorepo backend with **NestJS + Node.js** @ **SaveIT**
+- 30+ Admin Portal modules with **Server-Driven UI (SDUI)**
+- User-facing web platform with **Next.js + React.js**
 
     </td>
     <td width="50%" valign="top">
 
 ### 📚 Learning
-- **Microservices Architecture** patterns
-- **ScyllaDB** for high-performance databases
-- **TensorFlow** and advanced AI/ML applications
+- **Microservices Architecture** & Event-Driven Systems
+- **AWS Bedrock & Anthropic Claude SDK** for GenAI
+- **PostGIS & Redis** spatial indexing & multi-tiered caching
 
     </td>
   </tr>
@@ -88,21 +85,22 @@ const abdulMomin = {
     <td width="50%" valign="top">
 
 ### 🤝 Looking To Collaborate On
-- AI-powered web applications
-- Open-source full-stack projects
-- Mobile apps solving real-world problems
+- AI-powered web applications & GenAI integrations
+- Open-source full-stack projects & backend monorepos
+- Scalable Fintech & Fraud Detection platforms
 
     </td>
     <td width="50%" valign="top">
 
 ### 🏆 Recent Wins
-- 🥇 Best Academic Result Award **2025**
-- 🥇 Best Academic Result Award **2023**
-- 💼 Working as Full-Stack Engineer while pursuing degree
+- 💼 **Sole Backend Owner** maintaining 99.9% uptime for SaveIT Fintech Platform
+- ⚡ **Reduced Query Latency by 40%** via Redis stock caching & PostGIS
+- 👥 **Core Team Lead** managing 20+ student teams for college fests (15,000+ attendees)
 
     </td>
   </tr>
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -116,83 +114,70 @@ const abdulMomin = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
 ### 🚀 Frontend
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![SDUI Engine](https://img.shields.io/badge/SDUI-Server--Driven_UI-0E75B6?style=for-the-badge)
 
 ---
 
 ### 🖥️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0E75B6?style=for-the-badge)
+![BullMQ](https://img.shields.io/badge/BullMQ-CC2927?style=for-the-badge)
+![BFF](https://img.shields.io/badge/BFF-Backend_For_Frontend-black?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-Architecture-0E75B6?style=for-the-badge)
 
 ---
 
 ### 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ---
 
 ### 🤖 AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_SDK-D97706?style=for-the-badge)
 
 ---
 
 ### 🛠️ DevOps & Tools
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
 
@@ -201,19 +186,45 @@ const abdulMomin = {
 ---
 
 ## 🎯 Skill Proficiency
-
 <div align="center">
-
-| Skill | Proficiency |
-|-------|------------|
-| React / Next.js | █████████░ 90% |
-| Node.js / Express | █████████░ 88% |
-| Flutter / Dart | ████████░░ 85% |
-| PostgreSQL / MongoDB | ████████░░ 85% |
-| Python / AI-ML | ████████░░ 82% |
-| Microservices | ████████░░ 80% |
-| DevOps / Docker | ████████░░ 80% |
-
+<table width="60%">
+  <thead>
+    <tr>
+      <th align="left">Skill</th>
+      <th align="left">Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>React / Next.js</td>
+      <td>█████████░ 90%</td>
+    </tr>
+    <tr>
+      <td>Node.js / Express</td>
+      <td>█████████░ 88%</td>
+    </tr>
+    <tr>
+      <td>React Native</td>
+      <td>████████░░ 85%</td>
+    </tr>
+    <tr>
+      <td>PostgreSQL / MySQL</td>
+      <td>████████░░ 85%</td>
+    </tr>
+    <tr>
+      <td>Python / AI-ML</td>
+      <td>████████░░ 82%</td>
+    </tr>
+    <tr>
+      <td>Microservices</td>
+      <td>████████░░ 80%</td>
+    </tr>
+    <tr>
+      <td>DevOps / Docker</td>
+      <td>████████░░ 80%</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -223,27 +234,22 @@ const abdulMomin = {
 ## 💡 Dev Philosophy
 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-> *"Clean code is not written by following a set of rules. It's written by someone who cares."* — Robert C. Martin
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
-
+<p><i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b></p>
+<br/>
+<p><i>"Clean code is not written by following a set of rules. It's written by someone who cares."</i> — <b>Robert C. Martin</b></p>
+<br/>
+<p><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — <b>Harold Abelson</b></p>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## ✍️ Quote of the Day
-
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<img src="https://readme-daily-quotes.vercel.app/api" alt="Daily Quote" />
 </div>
-
 <br/>
 
 ---
@@ -252,11 +258,10 @@ const abdulMomin = {
 
 ### 👀 Thanks for visiting — let's build something that matters.
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmomin.dev/)
+
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerali045@outlook.com)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@abdulmomin.dev)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-momin-b6876127a)
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ali4545/)
 
 <br/>
 
